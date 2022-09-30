@@ -209,7 +209,7 @@ Alias bb=“/Applications/BulletinBoard.app/Contents/macOS/BulletinBoard”
 With this alias loaded, I created the following gif to show using the new Bubletea interface for building a dialog:
 
 
-![DemoBuildCLI.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1664446846345/6JX46aQ-U.gif align="left")
+![TuiDemo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1664515209513/a9mHVsdUR.gif align="left")
 
 ## Conclusion
 
