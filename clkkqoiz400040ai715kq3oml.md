@@ -75,4 +75,8 @@ The TUI looks like this:
 
 ![EmailIt TUI](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkjzcropfreg9ie9eqsh.gif align="left")
 
-If you have the Default account set up in EmailIt, it will then send your email to that account. You're all set to do emails from the command line!
+If you have the Default account set up in EmailIt, it will then send your email to that account. The email resulting from the above video is:
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690438503674/23765f62-8a63-44bd-a9b7-50e5828efca3.png align="center")
+
+You're all set to do emails from the command line!
